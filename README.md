@@ -21,5 +21,11 @@
       <td><a href="https://verdant-churros-24bd00.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif" alt="NBA Legends App"></td>
     </tr>
+    <tr>
+      <td>Web Site Page Design</td></td>
+      <td><a href="https://github.com/achieve-software/4websitePage">Repo Details</td>
+      <td><a href="https://cosmic-queijadas-ef475f.netlify.app/"_blank">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/web.gif" alt="NBA Legends App"></td>
+    </tr>
   </tbody>
 </table>
