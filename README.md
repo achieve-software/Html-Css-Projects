@@ -15,5 +15,11 @@
       <td><a href="https://tourmaline-tapioca-5a2336.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif" alt="NBA Legends App"></td>
     </tr>
+    <tr>
+      <td>Parallax-website</td></td>
+      <td><a href="https://github.com/achieve-software/3parallaxweb">Repo Details</td>
+      <td><a href="https://verdant-churros-24bd00.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif" alt="NBA Legends App"></td>
+    </tr>
   </tbody>
 </table>
