@@ -13,31 +13,31 @@
       <td>Survey_Form</td></td>
       <td><a href="https://github.com/achieve-software/1shop" target="_blank">Repo Details</td>
       <td><a href="https://tourmaline-tapioca-5a2336.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif" alt="NBA Legends App"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif" alt="Survey_Form"></td>
     </tr>
     <tr>
       <td>Parallax-website</td></td>
       <td><a href="https://github.com/achieve-software/3parallaxweb">Repo Details</td>
       <td><a href="https://verdant-churros-24bd00.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif" alt="NBA Legends App"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif" alt="Parallax-website"></td>
     </tr>
     <tr>
       <td>Web Site Page Design</td></td>
       <td><a href="https://github.com/achieve-software/4websitePage">Repo Details</td>
       <td><a href="https://cosmic-queijadas-ef475f.netlify.app/"_blank">Live App</td>
-      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/web.gif" alt="NBA Legends App"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/web.gif" alt="Web Site Page Design"></td>
     </tr>
      <tr>
       <td>Google Landing Page</td></td>
       <td><a href="https://github.com/achieve-software/2googleLand">Repo Details</td>
       <td><a href="https://stately-boba-9ac91e.netlify.app/"_blank">Live App</td>
-      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/google.gif" alt="NBA Legends App"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/google.gif" alt="Google Landing Page"></td>
     </tr>
     <tr>
       <td>IOS Calculator</td></td>
       <td><a href="https://github.com/achieve-software/5IosCalculator">Repo Details</td>
       <td><a href="https://leafy-heliotrope-83764c.netlify.app/">Live App</td>
-      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif" alt="NBA Legends App"></td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/%C4%B1os%20calculator.gif?raw=true" alt="IOS Calculator"></td>
     </tr>
   </tbody>
 </table>
