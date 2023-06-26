@@ -33,11 +33,5 @@
       <td><a href="https://stately-boba-9ac91e.netlify.app/"_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/google.gif" alt="Google Landing Page"></td>
     </tr>
-    <tr>
-      <td>IOS Calculator</td></td>
-      <td><a href="https://github.com/achieve-software/5IosCalculator">Repo Details</td>
-      <td><a href="https://leafy-heliotrope-83764c.netlify.app/">Live App</td>
-      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/%C4%B1os%20calculator.gif?raw=true" alt="IOS Calculator"></td>
-    </tr>
-  </tbody>
+      </tbody>
 </table>
